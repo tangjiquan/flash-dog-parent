@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flash-dog-api-agent/flash-dog-api-agent.iml" filepath="$PROJECT_DIR$/flash-dog-api-agent/flash-dog-api-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-dog-api-log4j/flash-dog-api-log4j.iml" filepath="$PROJECT_DIR$/flash-dog-api-log4j/flash-dog-api-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-dog-parent.iml" filepath="$PROJECT_DIR$/flash-dog-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flash-dog-server/flash-dog-server.iml" filepath="$PROJECT_DIR$/flash-dog-server/flash-dog-server.iml" />
+    </modules>
+  </component>
+</project>
